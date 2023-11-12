@@ -1,4 +1,3 @@
 # winteriscoming
-Winter is coming
- The night is dark and full of terrors!
+Winter is coming.
 The night is dark and full of terrors!
